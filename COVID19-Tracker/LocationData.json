@@ -1,0 +1,57 @@
+[
+    {
+        "id": "4055D506-91C6-42F7-9AF3-715682650837",
+        "country_name": "USA",
+        "cases": "1",
+        "deaths": "1",
+        "region": "",
+        "total_recovered": "1",
+        "new_deaths": "1",
+        "new_cases": "1",
+        "serious_critical": "1",
+        "active_cases": "1",
+        "total_cases_per_1m_population": "1"
+    },
+    {
+        "id": "4055D458-91C6-42F7-7BF3-715682650837",
+        "country_name": "France",
+        "cases": "1",
+        "deaths": "1",
+        "region": "",
+        "total_recovered": "1",
+        "new_deaths": "1",
+        "new_cases": "1",
+        "serious_critical": "1",
+        "active_cases": "1",
+        "total_cases_per_1m_population": "1"
+    },
+    {
+        "id": "5200FD42-978F-4906-893E-AE3162CC4DAA",
+        "country_name": "Germany",
+        "cases": "1",
+        "deaths": "1",
+        "region": "",
+        "total_recovered": "1",
+        "new_deaths": "1",
+        "new_cases": "1",
+        "serious_critical": "1",
+        "active_cases": "1",
+        "total_cases_per_1m_population": "1"
+    },
+    {
+        "id": "5313684A-FC69-402E-965F-47B63B28A0C6",
+        "country_name": "Spain",
+        "cases": "1",
+        "deaths": "1",
+        "region": "",
+        "total_recovered": "1",
+        "new_deaths": "1",
+        "new_cases": "1",
+        "serious_critical": "1",
+        "active_cases": "1",
+        "total_cases_per_1m_population": "1"
+    }
+    
+]
+
+
